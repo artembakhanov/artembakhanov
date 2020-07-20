@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Artem Bakhanov and currently I am Innopolis University student. <br>
-🌱 I am currently learning somethings interesting and working on a secret project. <br>
+🌱 I am currently learning something interesting and working on a secret project. <br>
 
 How you can reach me: text me on Telegram! @artembakhanov <br><br>
 <!--
