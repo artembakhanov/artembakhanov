@@ -3,6 +3,7 @@ My name is Artem Bakhanov and currently I am Innopolis University student. <br>
 🌱 I am currently learning something interesting and working on a secret project. <br>
 
 How you can reach me: text me on Telegram! @artembakhanov <br><br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=artembakhanov)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **artembakhanov/artembakhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
